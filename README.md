@@ -22,3 +22,12 @@ atividade-git-pipeline/
 └── README.md             # Documentação
 
 ````
+
+
+## 📚 Referências
+
+* [Documentação oficial do GitHub Actions](https://docs.github.com/actions)
+* [Documentação do pytest](https://docs.pytest.org/)
+* [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
+
+
