@@ -1,2 +1,8 @@
-# pipeline-python-exemplo
-Exemplo simples de pipeline CI/CD com Python e pytest usando GitHub Actions. Criado para fins educacionais: demonstra como uma pipeline roda testes automatizados e pode barrar Pull Requests que não passam nos testes.
+
+# 🚀 Pipeline com Python e GitHub Actions
+
+Este repositório é um **exemplo didático** de como configurar uma pipeline simples 
+usando **Python + pytest** no **GitHub Actions**.
+
+A pipeline é executada sempre que alguém abre um **Pull Request** para a branch `develop`.  
+Ela instala dependências, roda os testes e só permite o merge se todos os testes passarem ✅
