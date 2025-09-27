@@ -1,5 +1,5 @@
 
-# 🚀 Pipeline com Python e GitHub Actions
+# 🚀 Atividade com Python e GitHub Actions
 
 Este repositório é um **exemplo didático** de como configurar uma pipeline simples 
 usando **Python + pytest** no **GitHub Actions**.
