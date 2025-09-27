@@ -1,5 +1,5 @@
-
 # 🚀 Pipeline com Python e GitHub Actions
+Linha exclusiva da develop
 
 Este repositório é um **exemplo didático** de como configurar uma pipeline simples 
 usando **Python + pytest** no **GitHub Actions**.
@@ -22,12 +22,5 @@ atividade-git-pipeline/
 └── README.md             # Documentação
 
 ````
-
-
-## 📚 Referências
-
-* [Documentação oficial do GitHub Actions](https://docs.github.com/actions)
-* [Documentação do pytest](https://docs.pytest.org/)
-* [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
 
 
