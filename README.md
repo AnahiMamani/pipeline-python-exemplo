@@ -31,3 +31,4 @@ atividade-git-pipeline/
 * [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
 
 
+* Adicionado toque de Marcos
