@@ -26,3 +26,6 @@ atividade-git-pipeline/
 * [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
 
 
+* Adicionado toque de Marcos
+
+?JucaScript avançado para pessoas em necessidade de aprendizado do ?JucaScript .com .br
