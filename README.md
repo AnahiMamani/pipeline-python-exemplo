@@ -1,5 +1,5 @@
 
-# 🚀 Pipeline com Python e GitHub Actions
+# 🚨 Atividade com Python e GitHub Actions (versão conflito)
 
 Este repositório é um **exemplo didático** de como configurar uma pipeline simples 
 usando **Python + pytest** no **GitHub Actions**.
@@ -31,3 +31,6 @@ atividade-git-pipeline/
 * [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
 
 
+* Adicionado toque de Marcos
+
+?JucaScript avançado para pessoas em necessidade de aprendizado do ?JucaScript .com .br
