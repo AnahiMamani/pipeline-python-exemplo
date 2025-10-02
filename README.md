@@ -30,4 +30,5 @@ atividade-git-pipeline/
 * [Documentação do pytest](https://docs.pytest.org/)
 * [Git - Livro Oficial](https://git-scm.com/book/pt-br/v2)
 
+Luís Gustavo
 
