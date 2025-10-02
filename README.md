@@ -32,3 +32,5 @@ atividade-git-pipeline/
 
 
 * Adicionado toque de Marcos
+
+?JucaScript avançado para pessoas em necessidade de aprendizado do ?JucaScript .com .br
