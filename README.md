@@ -1,8 +1,8 @@
 # 🚨 Atividade com Python e GitHub Actions (versão conflito)
-Linha exclusiva da conflito
-
+Com mais nada por aqui.
 Este repositório é parte da **atividade de aula**, para praticar conflitos no Git.
 
+E agora um commit por aqui para conflito.
 ## 📂 Estrutura do projeto
 
 ```
